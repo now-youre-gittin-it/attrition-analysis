@@ -11,7 +11,7 @@ Data Source: <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attr
 ## Objective
 
 Primary business stakeholders- *HR Team of the company (IBM)*
-They should be able to understand what factors contribute to attrition and take steps towards improving the situation based on the model results and final recommendations
+<br>They should be able to understand what factors contribute to attrition and take steps towards improving the situation based on the model results and final recommendations
 Furthermore, visualizations will help understand employee performance trends based on certain employee attributes to enable focused and relevant decision making.
 
 ## Project Tasks
