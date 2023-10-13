@@ -1,18 +1,19 @@
 # Employee Attrition Analysis and Visualization
 
 ## Problem statement
-Predict the attrition (Yes/No) of employees with 80% accuracy, identify what factors are significantly impacting it, and finally provide some suggestions on how to mitigate the attrition. 
+Predict the attrition (Yes/No) of employees, identify what factors are significantly impacting it, and finally provide some suggestions on how to mitigate the attrition. 
 Furthermore, create data visualizations to analyze attrition based on employee attributes like age, marital status, and work-life balance.
 
 Data Source: <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset" target="_blank">**IBM HR Analytics Employee Attrition & Performance Dataset on Kaggle**</a>
-<br>Date: Project created and completed in 2020
+<br>Date: Project created and completed in November 2020
 
 
 ## Objective
 
 Primary business stakeholders- *HR Team of the company (IBM)*
-<br>They should be able to understand what factors contribute to attrition and take steps towards improving the situation based on the model results and final recommendations
-Furthermore, visualizations will help understand employee performance trends based on certain employee attributes to enable focused and relevant decision making.
+<br>They should be able to understand what factors contribute to attrition and take steps towards improving the situation based on the model results and final recommendations.
+<br>Furthermore, visualizations will help understand employee attrition patterns in specific groups to enable focused and relevant decision making.
+<br>Accuracy of attrition class prediction should be >= 80%
 
 ## Project Tasks
 1. Feature Selection: Eliminate excess highly correlated numerical features using Pearson Correlation Heatmap
