@@ -5,6 +5,7 @@ Predict the attrition (Yes/No) of employees with 80% accuracy, identify what fac
 Furthermore, create data visualizations to analyze attrition based on employee attributes like age, marital status, and work-life balance.
 
 Data Source: <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset" target="_blank">**IBM HR Analytics Employee Attrition & Performance Dataset on Kaggle**</a>
+Date: Project created and completed in 2020
 
 
 ## Objective
